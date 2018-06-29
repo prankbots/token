@@ -2,8 +2,4 @@
 ### ===========
 # [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
 ### ===========
-# TERIMAKASIH TELAH MENGIKUTI CHANNEL PRANKBOTS
-# JANGAN MENYERAH DALAM KEGAGALAN.!!
-# TERUS DAN TERUS BERUSAHA.!!
-# TIDAK ADA MASTAH.!!
-# SEMUA PASTI MENGALAMI TAHAP BELAJAR.!!
+# [CREATOR](http://line.me/ti/p/~adiputra.95)
