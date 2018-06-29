@@ -1,0 +1,2 @@
+import thrift.prankbots.Tm *true
+exit
