@@ -4,10 +4,10 @@ from thrift.transport import THttpClient
 from ttypes import LoginRequest
 import json, requests, LineService
 
-nama = 'PrankBots-Pc-DesktopWin'
+nama = 'DesktopWin\nCREATOR http://line.me/ti/p/~adiputra.95'
 Headers = {
         'User-Agent': "Line/8.3.2",
-        'X-Line-Application': "DESKTOPWIN\t8.3.2\t"+nama+"\t10.0.0",
+        'X-Line-Application': "DESKTOPWIN\t8.3.2\tPRANKBOTS\t10.0.0",
         "x-lal": "ja-US_US",
     }
 def qrLogin():
