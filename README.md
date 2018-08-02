@@ -1,5 +1,8 @@
 # TOKEN GENERATOR PYTHON2
-
+### ===========
+# [TUTORIAL](https://youtu.be/NwMYG_jn1HM) KLIK
+# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ) KLIK
+# [CREATOR](http://line.me/ti/p/~adiputra.95) KLIK
 - install module
 ``` 
 pkg install python2
@@ -19,12 +22,3 @@ python2 chromeos.py /for chrome
 python2 iosipad.py /for ios
 
 ```
-### ===========
-# [TUTORIAL](https://youtu.be/NwMYG_jn1HM)
-# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
-### ===========
-# [CREATOR](http://line.me/ti/p/~adiputra.95)
-
-
-# SIAP PAKAI DAN SIAP MENGHARGAI CREATOR
-
