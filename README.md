@@ -1,8 +1,11 @@
 # TOKEN GENERATOR PYTHON2
 ### ===========
-# [TUTORIAL](https://youtu.be/NwMYG_jn1HM) KLIK
-# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ) KLIK
-# [CREATOR](http://line.me/ti/p/~adiputra.95) KLIK
+# [TUTORIAL](https://youtu.be/NwMYG_jn1HM)
+KLIK
+# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+KLIK
+# [CREATOR](http://line.me/ti/p/~adiputra.95)
+KLIK
 - install module
 ``` 
 pkg install python2
